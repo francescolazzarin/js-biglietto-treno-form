@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(186, 20, 81);
+}
+.form-control,
+.form-select,
+.btn
+{
+    border-color:  rgb(186, 20, 81);
+}
+.col-5{
+    flex-basis: calc(100% / 5);
+}
+div>p{
+    margin-top: 20px;
+}
